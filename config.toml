@@ -1,4 +1,4 @@
-baseURL = "https://workshop.genesys.com/workshop/"
+baseURL = "https://workshop.genesys.com/workshops/"
 languageCode = "en-us"
 title = "Genesys Workshops: Your_Workshop_Name"
 theme = "hugo-theme-learn"
